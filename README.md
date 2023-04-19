@@ -7,11 +7,11 @@ Make sure Node is installed (preferably a version before Node 17)
 
 In order to start the program do:
 
-npm install
+**npm install**
 
 Once that's finished:
 
-npm start
+**npm start**
 
 
 If that doesn't run the pgoram, double check if the version of Node that's installed is a Node Version before Node 17.
