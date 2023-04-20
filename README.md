@@ -14,4 +14,7 @@ Once that's finished:
 **npm start**
 
 
+If there's any errors preventing the program from running (it doesn't recognize the import) do:
+**npm install [import name]**
+
 If that doesn't run the pgoram, double check if the version of Node that's installed is a Node Version before Node 17.
