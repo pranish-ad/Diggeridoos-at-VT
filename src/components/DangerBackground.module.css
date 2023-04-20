@@ -1,0 +1,13 @@
+.dangerBackground {
+  position: absolute;
+  height: 41.51%;
+  width: 73%;
+  top: 94.34%;
+  right: 2%;
+  left: 25%;
+  border-radius: 6.62px 6.62px 0 6.62px;
+  background-color: var(--color-red-100);
+  border: 1.8px solid var(--color-lightslategray);
+  box-sizing: border-box;
+  mix-blend-mode: normal;
+}
